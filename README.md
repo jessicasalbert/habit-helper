@@ -1,5 +1,5 @@
 ### Flatiron School: Module 1 Final Project
-### Created by Madeline Stalter & Jessica Salbert
+### Created by Madeline Stalter (Github: PandaBearCoding) & Jessica Salbert (Github: JessicaSalbert)
 
 ### Purpose
 - Habit Helper is a CLI application that encourages healthier living through the implementation of good habits. Habit Helper offers users fun ways to be active within their community and create meal plans in line with their fitness goals (i.e., lose weight or build muscle). 
